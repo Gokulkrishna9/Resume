@@ -1,2 +1,2 @@
-# dhulipudi
-dhulipudi.w3spaces.com
+# Personal Website
+This is my personal website
